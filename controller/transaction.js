@@ -1,6 +1,6 @@
 import bcrypt from "bcryptjs";
 import { Transaction } from "../Model/Transaction.js";
-import { User } from "../Model/user.js";
+import { User } from "../Model/User.js";
 
 
 // Deposit
